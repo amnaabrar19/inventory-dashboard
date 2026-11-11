@@ -2,7 +2,7 @@
 
 A single-page React app for managing products and stock levels. It mixes a class component (`AuditLogger`) with functional components and Hooks.
 
-**Live demo:** _paste your deployed link here_
+**Live demo:** https://inventory-dashboard-amber.vercel.app
 
 ## Features
 
